@@ -11,7 +11,7 @@ GitHub 上では UTF-8 で表示されています。\
 次のコマンドで参照できます。
 
 ```
-?"MJ GETS 15jam.ru.org/
+?"MJ GETS 15jam.eu.org/
 ```
 
 実際の表示とソースを見比べて下さい。
